@@ -1,4 +1,3 @@
-# Turbo.az---Car-Price-Prediction
 # Turbo.az Car Price Prediction
 
 Predicting used car prices in Azerbaijan from Turbo.az listings.
@@ -50,8 +49,7 @@ Tree-based models beat the linear ones by a wide margin, which makes sense: pric
 
 For example, a 2008 Hyundai i30 (diesel, 270K km) listed at 15,000 AZN gets a prediction of about 14,160 AZN.
 
-## Run it yourself
-
+## For running it
 ```bash
 pip install pandas numpy matplotlib scikit-learn xgboost lightgbm joblib
 python -m notebook
